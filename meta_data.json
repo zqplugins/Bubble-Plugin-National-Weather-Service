@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "web scraping",
+        "1": "productivity",
+        "2": "technical",
+        "3": "location",
+        "4": "energy"
+    },
+    "demo_page": "https://national-weather-service.bubbleapps.io/version-test",
+    "description": "A free, reliable solution for getting a current or hourly weather forecast directly in bubble.\n\nThere is only one caveat! \n\nSince this is a public services provided by the US 🇺🇸 it will only have weather data for the US.\n\nIf that's all you need, you're good.\n\n✅ Free\n✅ Reliable\n✅ No limits\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1706898173620x789211897331044200/DALL%C2%B7E%202024-02-02%2020.22.05%20-%20Create%20a%20modern%2C%20minimalistic%203D%20icon%20that%20places%20the%20previously%20designed%20weather%20theme%20with%20clouds%2C%20sun%2C%20and%20rain%20on%20top%20of%20a%20globe.%20The%20globe%20should.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "National Weather Service",
+    "plugin_instructions": "If you need the current forecast for a location:\n\n🏃‍♀️ Run the 'Get Current Weather' action\n👍🏻 Use the data returned by the action\n\nIf you need the closest forecast for a specific location + date in the future:\n\n🏃‍♀️ Run the 'Get Closest Weather' action\n👍🏻 Use the data returned by the action\n⚠️ Date must be within 5 days from now",
+    "sa_node_version": 18
+}
